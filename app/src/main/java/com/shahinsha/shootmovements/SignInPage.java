@@ -94,6 +94,7 @@ public class SignInPage extends AppCompatActivity {
                                     Log.i("Signin", "onResponse: " + response.body());
                                     tinyDB.putBoolean("isLogin", true);
                                     tinyDB.putObject("User", response.body());
+                                    Log.i("Signin" ,"onResponse: ");
                                     Toast.makeText(getApplicationContext(), response.body().getMessage()+" "+response.body().getData().getName(), Toast.LENGTH_SHORT).show();
                                     Intent i = new Intent(SignInPage.this, HomeActivity.class);
                                     startActivity(i);
