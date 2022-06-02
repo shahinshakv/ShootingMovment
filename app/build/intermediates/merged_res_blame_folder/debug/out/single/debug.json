@@ -1,122 +1,126 @@
 [
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/layout_activity_splash_screen.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/layout/activity_splash_screen.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_login_edittext_bg.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\drawable-v24\\login_edittext_bg.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_videocamera.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\drawable-v24\\ic_videocamera.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/drawable-v24_ic_lock.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/drawable-v24/ic_lock.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/drawable-v24_ic_email_icon.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/drawable-v24/ic_email_icon.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_videocamera.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\drawable-xxhdpi\\ic_videocamera.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/drawable_rounded_corner.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/drawable/rounded_corner.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_videocamera.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/drawable-xxhdpi/ic_videocamera.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_login_bg.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\drawable-v24\\login_bg.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\raw_videorecorder.json.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\raw\\videorecorder.json"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_email_icon.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\drawable-v24\\ic_email_icon.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/drawable-v24_login_button_bg.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/drawable-v24/login_button_bg.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/drawable-v24_login_edittext_bg.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/drawable-v24/login_edittext_bg.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/layout_activity_home.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/layout/activity_home.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/raw_notifications.json.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/raw/notifications.json"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_login_button_bg.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\drawable-v24\\login_button_bg.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/drawable-v24_ic_name.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/drawable-v24/ic_name.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/drawable-v24_login_bg.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/drawable-v24/login_bg.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\drawable\\ic_logout.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/layout_activity_sign_up.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/layout/activity_sign_up.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/drawable-v24_round_shape_white_login.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/drawable-v24/round_shape_white_login.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_round_shape_white_login.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\drawable-v24\\round_shape_white_login.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/layout_activity_signin.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/layout/activity_signin.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_name.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\drawable-v24\\ic_name.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/drawable-v24_ic_videocamera.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/drawable-v24/ic_videocamera.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_lock.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\drawable-v24\\ic_lock.xml"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/raw_videorecorder.json.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/raw/videorecorder.json"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\raw_notifications.json.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\raw\\notifications.json"
     },
     {
-        "merged": "/Users/igt/Desktop/ShootMovements/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/igt/Desktop/ShootMovements/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\SHAHINSHA\\AndroidStudioProjects\\ShootingMovment\\app\\src\\main\\res\\layout\\activity_signin.xml"
     }
 ]

@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/SHAHINSHA/AndroidStudioProjects/ShootingMovment/app/src/main/res/drawable/ic_logout.xml" value="0.1" />
+        <entry key="..\:/Users/SHAHINSHA/AndroidStudioProjects/ShootingMovment/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="app/src/main/res/drawable-v24/ic_email_icon.xml" value="0.21666666666666667" />
         <entry key="app/src/main/res/drawable-v24/ic_lock.xml" value="0.21666666666666667" />
         <entry key="app/src/main/res/drawable-v24/ic_name.xml" value="0.21666666666666667" />

@@ -36,6 +36,17 @@
             android:layout_height="match_parent"
             android:layout_marginTop="@dimen/_35sdp"
             android:background="@drawable/login_bg" />
+        <ImageButton
+            android:id="@+id/btnlogout"
+            android:layout_width="@dimen/_25sdp"
+            android:layout_height="@dimen/_25sdp"
+            android:elevation="@dimen/_25sdp"
+            android:scaleType="fitXY"
+            android:layout_marginEnd="@dimen/_15sdp"
+            android:background="@drawable/round_shape_white_login"
+            android:src="@drawable/ic_logout"
+            android:layout_gravity="top|end"
+            android:layout_marginTop="@dimen/_25sdp"/>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -111,6 +122,7 @@
                     </LinearLayout>
 
             <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/sendfcm"
                 android:layout_width="wrap_content"
                 android:layout_height="@dimen/_25sdp"
                 android:layout_marginTop="@dimen/_8sdp"
@@ -145,20 +157,13 @@
                     app:layout_constraintStart_toEndOf="@+id/animation_view"
                     app:layout_constraintTop_toTopOf="parent" />
             </androidx.constraintlayout.widget.ConstraintLayout>
-            <Button
-                android:id="@+id/btnlogout"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Logout"
-                android:textColor="@color/black"
-                android:textAllCaps="false"
-                android:layout_gravity="center"
-                android:layout_marginTop="@dimen/_8sdp"/>
+
 
                 </LinearLayout>
                 <ImageButton
-                    android:layout_width="@dimen/_45sdp"
-                    android:layout_height="@dimen/_45sdp"
+                    android:id="@+id/recordbtn"
+                    android:layout_width="@dimen/_75sdp"
+                    android:layout_height="@dimen/_75sdp"
                     android:src="@drawable/ic_videocamera"
                     android:layout_gravity="center"
                     android:scaleType="fitXY"
