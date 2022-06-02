@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e5e5e5"
+    android:id="@+id/rootLayout"
+    android:orientation="vertical">
+
+
+
+
+    <FrameLayout
+        android:id="@+id/bottomnavs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="@dimen/_14sdp"
+        android:layout_marginRight="@dimen/_14sdp"
+        android:clipToPadding="false"
+        android:focusable="true">
+
+        <ImageView
+            android:id="@+id/cardbtb"
+            android:layout_width="@dimen/_65sdp"
+            android:layout_height="@dimen/_65sdp"
+            android:layout_gravity="top|center"
+            android:background="@drawable/round_shape_white_login"
+            android:elevation="@dimen/_15sdp"
+            android:padding="@dimen/_8sdp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_videocamera" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/_35sdp"
+            android:background="@drawable/login_bg" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/_70sdp"
+
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_8sdp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:layout_marginTop="@dimen/_8sdp"
+                    android:orientation="vertical">
+
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+
+                        android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Name: "
+                        android:textColor="#303843"
+                        android:textSize="@dimen/_14sdp"
+                        android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/nametxt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Shahinsha"
+                            android:textColor="#303843"
+                            android:textSize="@dimen/_14sdp"
+                             />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="@dimen/_8sdp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Email: "
+                            android:textColor="#303843"
+                            android:textSize="@dimen/_12sdp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/emailtxt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Shahinsha@example.com"
+                            android:textColor="#303843"
+                            android:textSize="@dimen/_12sdp"
+                            />
+                    </LinearLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_25sdp"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:orientation="horizontal"
+                android:layout_gravity="center"
+               >
+
+                <com.airbnb.lottie.LottieAnimationView
+                    android:id="@+id/animation_view"
+                    android:layout_width="@dimen/_25sdp"
+                    android:layout_height="@dimen/_25sdp"
+                    android:background="@color/gray"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:lottie_autoPlay="true"
+                    app:lottie_loop="true"
+                    app:lottie_rawRes="@raw/notifications" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/colorprimary"
+                    android:padding="@dimen/_5sdp"
+                    android:text="Get Notification"
+                    android:textColor="#303843"
+                    android:textSize="@dimen/_10sdp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/animation_view"
+                    app:layout_constraintTop_toTopOf="parent" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+            <Button
+                android:id="@+id/btnlogout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Logout"
+                android:textColor="@color/black"
+                android:textAllCaps="false"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_8sdp"/>
+
+                </LinearLayout>
+                <ImageButton
+                    android:layout_width="@dimen/_45sdp"
+                    android:layout_height="@dimen/_45sdp"
+                    android:src="@drawable/ic_videocamera"
+                    android:layout_gravity="center"
+                    android:scaleType="fitXY"
+                    android:layout_marginTop="@dimen/_8sdp"
+                    android:background="@drawable/rounded_corner"
+                    android:elevation="@dimen/_8sdp"
+                    />
+
+
+            </LinearLayout>
+
+
+
+
+        </LinearLayout>
+    </FrameLayout>
+
+
+
+
+
+
+</RelativeLayout>
+
