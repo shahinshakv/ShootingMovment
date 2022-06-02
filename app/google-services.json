@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91936046217",
+    "project_id": "shootingmovements",
+    "storage_bucket": "shootingmovements.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91936046217:android:956033f33d671d0c609a58",
+        "android_client_info": {
+          "package_name": "com.shahinsha.shootmovements"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91936046217-gp1hr2jifbnacf81mu7dt80v6gq986ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh5GbB9ZMbrgfr2ihmdl3rmRiKahcO61Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91936046217-gp1hr2jifbnacf81mu7dt80v6gq986ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -28,8 +28,8 @@ public class HomeActivity extends AppCompatActivity {
         isLogin  = tinyDB.getBoolean("isLogin");
         if (isLogin){
             Login data = tinyDB.getObject("User", Login.class);
-            nametxt.setText(data.getData().getName()+"");
-            emailtxt.setText(data.getData().getEmail()+"");
+            nametxt.setText(data.getData().getName());
+            emailtxt.setText(data.getData().getEmail());
         }
 
         btnlogout.setOnClickListener(new View.OnClickListener() {
